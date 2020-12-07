@@ -17,3 +17,4 @@ Day 3: C<br />
 Day 4: Javascript<br />
 Day 5: Javascript<br />
 Day 6: Javascript<br />
+Day 7: Javascript<br />
